@@ -4,7 +4,7 @@
 PlayerSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 26
-  productGUID: 106e1c18a46c0b24fad0239cc9668dcc
+  productGUID: d8e68f412d9591c439a6ebade6a3325b
   AndroidProfiler: 0
   AndroidFilterTouchesWhenObscured: 0
   AndroidEnableSustainedPerformanceMode: 0
@@ -13,7 +13,7 @@ PlayerSettings:
   useOnDemandResources: 0
   accelerometerFrequency: 60
   companyName: DefaultCompany
-  productName: AdvancedEnemyGeneration
+  productName: GenerationEnemiesLevel
   defaultCursor: {fileID: 0}
   cursorHotspot: {x: 0, y: 0}
   m_SplashScreenBackgroundColor: {r: 0.13725491, g: 0.12156863, b: 0.1254902, a: 1}
@@ -673,14 +673,14 @@ PlayerSettings:
   apiCompatibilityLevelPerPlatform: {}
   m_RenderingPath: 1
   m_MobileRenderingPath: 1
-  metroPackageName: AdvancedEnemyGeneration
+  metroPackageName: GenerationEnemiesLevel
   metroPackageVersion: 
   metroCertificatePath: 
   metroCertificatePassword: 
   metroCertificateSubject: 
   metroCertificateIssuer: 
   metroCertificateNotAfter: 0000000000000000
-  metroApplicationDescription: AdvancedEnemyGeneration
+  metroApplicationDescription: GenerationEnemiesLevel
   wsaImages: {}
   metroTileShortName: 
   metroTileShowName: 0
@@ -749,10 +749,10 @@ PlayerSettings:
   apiCompatibilityLevel: 6
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 4c747deb-18d1-4853-9c40-c7a3412f0295
+  cloudProjectId: fc6fdfb3-ea0b-4f1e-be64-76f831d9e9f4
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: AdvancedEnemyGeneration
+  projectName: GenerationEnemiesLevel 2024-01-17_21-27-45
   organizationId: carriedied
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
